@@ -1,0 +1,12 @@
+body{
+    font-style: italic; color: black;
+}
+img{
+    image-orientation: 10px;
+}
+h1{
+    color:cornflowerblue;
+    background-color: pink;
+    text-align: center;
+    padding: 30px;
+}
