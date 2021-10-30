@@ -6,6 +6,15 @@ h1{
     color:cornflowerblue;
     background-color: pink;
     text-align: center;
-    padding: 30px;
-    font-family: sans-serif;
+    padding: 20px;
+    font-family: sans-serif; 
+}
+#pkmn-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#pkmn-img>img {
+  max-width: 50%;
+  border: 2px blue;
 }
