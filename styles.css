@@ -9,12 +9,14 @@ h1{
     padding: 20px;
     font-family: sans-serif; 
 }
-#pkmn-img {
+
+#Pokemon_azul {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-#pkmn-img>img {
-  max-width: 50%;
-  border: 2px blue;
+
+#Pokemon_azul>img {
+    max-width: 50%;
+    border: 2px solid red;
 }
