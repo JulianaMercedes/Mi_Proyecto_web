@@ -1,0 +1,191 @@
+{
+    
+        "apiName":"DINS",
+        "origin":"CDMX",
+        "created":2021,
+        "figures":[
+            {
+                "id":1,
+                "name":"Dororo",
+                "type":"Mega",
+                "height":50,
+                "weight":3,
+                "des":"Un misterioso guerrero y un joven ladron huerfano viajan por japon luchando contra demonios",
+                "figure":"https://images.app.goo.gl/dpwGpnqu5wDaNBRf8"
+            },
+            {
+                "id":2,
+                "name":"Kill la Kill",
+                "type":"Normal",
+                "height":40,
+                "weight":3.5,
+                "des":"La mujer de las cuchillas tijera, Ryuko Matoi se embarca en una búsqueda de pistas alrededor del mundo que la lleve a la verdad detrás de la muerte de su padre",
+                "figure":"https://images.app.goo.gl/k83AF5sFvb7yar7Y8"    
+            },
+            {
+                "id":3,
+                "name":"Kakegurui",
+                "type":"Mega",
+                "height":45,
+                "weight":3,
+                "des":"Apostador Yumeko Jabami planea limpiar la academia donde los estudiantes son evaluados mediante las habilidades de un juegos",
+                "figure":"https://images.app.goo.gl/B1MXJ8Q3UMKXVghF8"        
+            },
+            {
+                "id":4,
+                "name":"Coffe",
+                "type":"Mega",
+                "height":70,
+                "weight":5,
+                "des":"Una mujer escritora de manga, criticada por su aspecto no puede conseguir otro trabajo, pero un hombre le sirve un cafe y...",
+                "figure":"https://images.app.goo.gl/N1kus1dzPQSUFGWC9"  
+            },
+            {
+                "id":5,
+                "name":"Another",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Trata de sucesos de muertes hacia los compañeros de Misaki, tiempo despues es trasladado a otra escuela",
+                "figure":"https://images.app.goo.gl/iCdD1W3t3amZLx2x8"      
+            },
+            {
+                "id":6,
+                "name":"Candy",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Abandonada enfrente de un casa iglesia, junto con otra bebe, tras años descubre mas sobre su verdad y de un tragico accidente.",
+                "figure":"https://drive.google.com/uc?export=view&id=12YYiZ9ACD6ccsmmruhfJpZm7p0_TGKPk" 
+            },
+            {
+                "id":7,
+                "name":"Akame ga Kill",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Ryuko se embarca en busca de pistas sobre la vedadera muerte de su padre",
+                "figure":"https://images.app.goo.gl/8LYQV6H6pQz54DWx7" 
+            },
+            {
+                "id":8,
+                "name":"Blue exorcist",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Gemelos encontrados en un invierno enfrente de una iglesia, fueron adoptados tiempo despues se descubre que son hijos de Satanas y este quiere llevarselos",
+                "figure":"https://images.app.goo.gl/BCgitwq4YsV7RbmKA" 
+            },
+            {
+                "id":9,
+                "name":"Castlevania",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"cazador de vampiros lucha para salvar a una ciudad asediada de un ejército de bestias de otro mundo controladas por Drácula",
+                "figure":"https://images.app.goo.gl/AK4F7MJzMbae6qXT8" 
+            },
+
+            {
+                "id":10,
+                "name":"Hellsing",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Adaptacion de su manga, con 10 volumenes",
+                "figure":"https://images.app.goo.gl/DQC76oS2ByvVJcd69" 
+            },
+
+            {
+                "id":11,
+                "name":"Black Lagoon",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Genero:Accion y comedia",
+                "figure":"https://images.app.goo.gl/QFxcfxxuTzTE4Tqf8" 
+            },
+            {
+                "id":12,
+                "name":"La cancion perdida",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Una guerra se libra sobre el reino de Neunatia, donde dos mujeres jóvenes son bendecidas por el poder de la canción",
+                "figure":"https://images.app.goo.gl/A9ttnvdE4gHf7BV7A" 
+            },
+            {
+                "id":13,
+                "name":"Levius",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Con las bajas de la guerra aún persiguiéndolo, el joven Levius usa su brazo protésico para luchar en el mundo del boxeo mecánico.",
+                "figure":"https://images.app.goo.gl/a5ZGQep9JUBU5ztY8" 
+            },
+
+            {
+                "id":14,
+                "name":"Angel Beast",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"En un reino del más allá, una banda de adolescentes trata de evitar ser llevados al siguiente nivel.",
+                "figure":"https://images.app.goo.gl/kQ1DKjTuKbeXhJ4W9" 
+            },
+            {
+                "id":15,
+                "name":"Promised Neverland",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Tres talentosos niños descubren que su recóndito orfanato no es el paraíso que creían e idean un peligroso plan de escape para salvar a todos sus amigos.",
+                "figure":"https://images.app.goo.gl/Dd8xmYBYbyeakrRU9" 
+            },
+            {
+                "id":16,
+                "name":"Bleach",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Adaptacion de su manga, donde un joven con aventuras al cual recorrer por un accidente de 15 años",
+                "figure":"https://images.app.goo.gl/RMAQpGwazoXvRjfn6" 
+            },
+            {
+                "id":17,
+                "name":"Food Wars",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Soma Yukihira se enfrenta a algunos de los mejores chefs del mundo para demostrar su valía y perfeccionar sus habilidades en la cocina.",
+                "figure":"https://images.app.goo.gl/viHoQxwjpAb2pjyR8" 
+            },
+            {
+                "id":18,
+                "name":"God Eater",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Mostruos y los unicos sobrevivientes son la organizacion Fenrir, luchando por recuperar el mundo",
+                "figure":"https://images.app.goo.gl/rNhaAmpLdxxsAzz37" 
+            },
+            {
+                "id":19,
+                "name":"Zombieland",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Idols, tragedias y comedias, es lo que te trae este anime",
+                "figure":"https://images.app.goo.gl/j2Q3a1H62MsSsfHy8" 
+            },
+            {
+                "id":20,
+                "name":"Naruto",
+                "typo":"Normal",
+                "height":40,
+                "weight":5,
+                "des":"Sin padres al nacer y ser rechazado por casi toda la aldea, aun sin tener una familia sigue avanzando, teniendo de ayuda al equipo 7 y al unico que lo cuido de pequeño",
+                "figure":"https://images.app.goo.gl/mckAPgAtP2qB4LMm9" 
+            }
+        ]
+}
